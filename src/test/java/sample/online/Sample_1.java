@@ -6,4 +6,10 @@ public class Sample_1 {
 	{
 		System.out.println("product added to the cart");
 	}
+	
+	public void removeFromCart()
+	{
+		System.out.println("product is removed from the cart");
+	}
+
 }
