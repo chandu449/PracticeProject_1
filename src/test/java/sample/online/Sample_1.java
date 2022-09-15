@@ -11,5 +11,10 @@ public class Sample_1 {
 	{
 		System.out.println("product is removed from the cart");
 	}
+	
+	public void addToWishList()
+	{
+		System.out.println("product is added to wishlist");
+	}
 
 }
